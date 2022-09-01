@@ -8,9 +8,7 @@
    <div> 
 <table border="5" bordercolor="red" align="center">
   
-  <tr>
-        <th colspan="3">ABCD</th> 
-    </tr>
+  
   
    
   <tr>
