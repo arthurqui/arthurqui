@@ -10,8 +10,8 @@
 <div> 
 
 
-  <img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" alt="JS" height="100">
-Introdução ao JavaScript
+  <img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" alt="Introdução ao JavaScript" height="100">
+
 
   
 
