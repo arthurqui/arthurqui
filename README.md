@@ -16,7 +16,7 @@
   
  <div> 
  
- <table border="0" align="center"  style="background-color:rgba(0, 0, 0, 0);">
+ <table border="0" align="center" >
     
     <tr>
         <th><a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100"></a></th>
