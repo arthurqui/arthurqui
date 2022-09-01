@@ -6,7 +6,7 @@
 </div>
 
    <div> 
-<table border=none bordercolor="white" align="center">
+<table border="0" bordercolor="white" align="center">
   
   
   
