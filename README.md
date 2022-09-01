@@ -6,23 +6,24 @@
 </div>
 
 <div> 
-   
-<table border="3" bordercolor="red" align="center" >
-    
+
+
+<table border="5" bordercolor="red" align="center">
+    <tr>
+        <th colspan="3">ABCD</th> 
+    </tr>
     <tr>
         <th>Name</th>
         <th>Origin</th>
         <th>Photo</th>
-    </tr>  
-  
+    </tr>
+
     <tr>
         <td><a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100"></a></th>
         <td><a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100"></a></th>
-        <td><a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100"></a></th>
+        <td border=3 height=100 width=100><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100"></th>
     </tr>
-    
-    
-    
+   
 </table>
 
   
