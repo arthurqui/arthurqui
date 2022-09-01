@@ -7,7 +7,7 @@
 
 <div> 
    
-<table border="3" bordercolor="red" >
+<table border="3" bordercolor="red" align="center" >
     
     <tr>
         <th>Name</th>
