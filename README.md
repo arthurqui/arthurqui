@@ -6,15 +6,26 @@
 </div>
 
 <div> 
-<a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100">
-</div>
   
-<div> 
+  <table border="5" bordercolor="red" align="center">
+    
+    <tr>
+        <td><a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100"></td>
+        <td><a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100"></td>
+        <td><a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100"></td>
+    </tr>
+    
+    <tr>
+        <td>Name</td>
+        <td>Origin</td>
+        <td>Photo</td>
+    </tr>
+  </table>
+
+  
 <a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100">
 </div>
-  <div> 
-<a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100">
-</div>
+
 
 
 
