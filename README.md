@@ -16,7 +16,7 @@
   
  <div> 
  
- <table border="1" bordercolor="white" align="center">
+ <table border="0" bordercolor="white" align="center" style="background-color:rgba(0, 0, 0, 0);>
     <tr>
         <th colspan="6">Javascript</th> 
     </tr>
