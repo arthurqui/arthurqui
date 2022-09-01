@@ -6,24 +6,26 @@
 </div>
 
 <div> 
-  
-  <table border="5" bordercolor="red" align="center">
-    
+   
+<table border="5" bordercolor="red" align="center">
     <tr>
-        <td><a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100"></td>
-        <td><a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100"></td>
-        <td><a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100"></td>
+        <th colspan="3">ABCD</th> 
+    </tr>
+    <tr>
+        <th>Name</th>
+        <th>Origin</th>
+        <th>Photo</th>
+    </tr>
+    <tr>
+        <td><a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100"></a></th>
+        <td><a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100"></a></th>
+        <td><a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100"></a></th>
     </tr>
     
-    <tr>
-        <td>Name</td>
-        <td>Origin</td>
-        <td>Photo</td>
-    </tr>
-  </table>
+</table>
 
   
-<a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100">
+
 </div>
 
 
