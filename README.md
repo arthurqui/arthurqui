@@ -5,18 +5,26 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurqui&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
- 
- <div> 
-<p align="center">   
-<a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100"></a><a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100"></a><a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100"></a>
-</p>
- 
- </div>
-  
    <div> 
-<p align="center">   
-<a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100"></a><a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100"></a><a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100"></a>
-</p>
+<table border="5" bordercolor="red" align="center">
+    
+    <tr>
+        <th><a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100"></a></th>
+        <th><a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100"></a></th>
+        <th><a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100"></a></th>
+    </tr>
+  <tr>
+        <th>1</th>
+        <th>2</a></th>
+        <th>3</a></th>
+    </tr>
+
+</table> 
+     </div>
+  
+
+
  
- </div>
+ 
+
 
