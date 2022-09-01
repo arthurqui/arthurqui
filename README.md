@@ -14,7 +14,7 @@
   
    
   <tr>
-        <th>1</th>
+        <th><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100"></th>
         <th>2</a></th>
         <th>3</a></th>
     </tr>
@@ -25,6 +25,6 @@
 
 
  
- 
+
 
 
