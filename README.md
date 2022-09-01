@@ -18,7 +18,7 @@
  
  <table border="0" bordercolor="red" align="center">
     <tr>
-        <th colspan="3">Javascript</th> 
+        <th colspan="6">Javascript</th> 
     </tr>
     <tr>
         <th><a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100"></a></th>
@@ -28,11 +28,7 @@
         <th><a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100"></a></th>
         <th><a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100"></a></th>
     </tr>
-   <tr>
-        <th><a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100"></a></th>
-        <th><a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100"></a></th>
-        <th><a href="#"><img src="https://hermes.digitalinnovation.one/courses/badge/81d76cda-c615-41d7-84c4-c0437c7b545a.png" height="100"></a></th>
-    </tr>
+  
     
 </table>
  
