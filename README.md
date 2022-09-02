@@ -1,8 +1,8 @@
 <h2 align="center">Bem-vindo ao Github do Arthur Quintanilha!</h2>
 <div align="center">
   <a href="https://github.com/arthurqui">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurqui&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurqui&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurqui&show_icons=true&title_color=58A6FF&icon_color=1F6FEB&text_color=DAE9F2&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurqui&layout=compact&langs_count=6&title_color=58A6FF&icon_color=1F6FEB&text_color=DAE9F2&bg_color=0D1117&hide_border=true">
 </div>
 <br><br>
 
