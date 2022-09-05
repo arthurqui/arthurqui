@@ -27,7 +27,7 @@
     <td align="center" ><a href="https://www.dio.me/certificate/4AE86B11/share" target="_blank"><img src="https://hermes.digitalinnovation.one/courses/badge/22efbe24-6719-4210-a850-935468e140d4.png" alt="Introdução ao JavaScript" height="100"></a></td>
     <td align="center" ><a href="https://drive.google.com/file/d/1AO6JLXx7VJGJ2H134BxoukvuCi7GPCS5/view?usp=sharing" target="_blank"><img src="https://imgur.com/4MVWCJx.png" alt="Introdução ao JavaScript" height="100"></td>
     <td align="center" ><a href="https://drive.google.com/file/d/1_hLCuTguTaTqW6NEqqXp7WEAAyv47gbo/view?usp=sharing" target="_blank"><img src="https://imgur.com/fYgfmG3.png" alt="Introdução ao JavaScript" height="100"></td>
-    <td align="center" ><a href="https://drive.google.com/file/d/1_bim4liihHejraRyVxObKFTb30Rgq-Xe/view?usp=sharing" target="_blank"><img src="https://www.pngrepo.com/png/312259/512/github.png" alt="Introdução ao JavaScript" height="100"></td>
+    <td align="center" ><a href="https://drive.google.com/file/d/1_bim4liihHejraRyVxObKFTb30Rgq-Xe/view?usp=sharing" target="_blank"><img src="https://hermes.digitalinnovation.one/courses/badge/c1f33b18-497b-408b-885f-ee8db71d872b.png" alt="Introdução ao JavaScript" height="100"></td>
   </tr>
   <tr>
     <td><a href="https://www.dio.me/certificate/4AE86B11/share" target="_blank">Sintaxe e Operadores<br>JavaScript</a></td>
