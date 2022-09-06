@@ -6,7 +6,7 @@
 </div>
 <br><br>
 
-<h3 align="center">Certificações</h3>
+<h3 align="center">Certificados</h3>
 
 <div> 
 
