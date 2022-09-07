@@ -46,7 +46,7 @@
   
   <tr>
     <td align="center" ><a href="https://drive.google.com/file/d/1fjMEW0RBjUc9aV4bvENZJbKWloRKWGDi/view?usp=sharing" target="_blank"><img src="https://i.imgur.com/ldzNH4b.png" alt="Introdução ao JavaScript" height="100"></a></td>
-    <td align="center" ><a href="https://drive.google.com/file/d/1AO6JLXx7VJGJ2H134BxoukvuCi7GPCS5/view?usp=sharing" target="_blank"><img src="https://i.imgur.com/rdg3mtC.png" alt="Introdução ao JavaScript" height="100"></td>
+    <td align="center" ><a href="https://drive.google.com/file/d/1TpzJ4wjgVcQO_SoZyTPvhwuvoghZ8mWv/view?usp=sharing" target="_blank"><img src="https://i.imgur.com/rdg3mtC.png" alt="Introdução ao JavaScript" height="100"></td>
     <td align="center" ><a href="https://drive.google.com/file/d/1RCw5B_P4qlJkhjxJVG5JHt0y8mk6lDpl/view?usp=sharing" target="_blank"><img src="https://hermes.digitalinnovation.one/courses/badge/398ce95f-49f3-4570-8d88-2b80fc6d3d51.png" alt="Introdução ao JavaScript" height="100"></td>
     <td align="center" ><a href="https://drive.google.com/file/d/1AFI0izCSZbwJI6SPSu7WLj63vgbZwCCT/view?usp=sharing" target="_blank"><img src="https://imgur.com/sw7UwQN.png" alt="Introdução ao JavaScript" height="100"></td>
   </tr>
