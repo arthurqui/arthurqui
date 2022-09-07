@@ -5,7 +5,7 @@
   <a href="https://portfolioarthur.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-📂%20Portfólio-yellow?style=for-the-badge" target="_blank"></a> 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
   <a href="https://github.com/arthurqui">
