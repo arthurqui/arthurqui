@@ -62,14 +62,14 @@ reduce</a></td>
     <td align="center" ><a href="https://drive.google.com/file/d/13k-Np9cvxAjuiDhc8zxJXC7adVDk65fB/view?usp=sharing" target="_blank"><img src="https://imgur.com/oH886rK.png" alt="Introdução ao JavaScript" height="100"></a></td>
     <td align="center" ><a href="https://www.dio.me/certificate/E11BE5A3/share" target="_blank"><img src="https://hermes.digitalinnovation.one/courses/badge/881a50c9-351e-4cf0-86d4-3ca6ac4a7d22.png" alt="Introdução ao JavaScript" height="100"></td>
     <td align="center" ><a href="https://www.dio.me/certificate/7BFE5DF0/share" target="_blank"><img src="https://hermes.digitalinnovation.one/courses/badge/355ab077-57cd-4860-b385-7afaa497a77c.png" alt="Introdução ao JavaScript" height="100"></td>
-    <td align="center" ><a href="" target="_blank"><img src="https://1.bp.blogspot.com/-U1F_Eu88SRI/WqxgIIe2CKI/AAAAAAAAuF8/1uZpIaYCgqEKR81xa8_namFjVY8jRMdrQCLcBGAs/s1600/Fundo%2Btransparente%2BPNG%2B%2Bfoto%2Binvisivel%2Bsem%2Bfundo.fw.png" alt="Introdução ao JavaScript" height="100"></td>
+    <td align="center" ><a href="https://www.dio.me/certificate/F5DDA7AB/share" target="_blank"><img src="https://hermes.digitalinnovation.one/courses/badge/cba47ac6-ff1e-4159-a59c-751120bc81b4.png" alt="Introdução ao JavaScript" height="100"></td>
   </tr>
   <tr>
     <td><a href="https://drive.google.com/file/d/13k-Np9cvxAjuiDhc8zxJXC7adVDk65fB/view?usp=sharing" target="_blank">Recriando a página<br>inicial do
 Instagram</a></td>
     <td><a href="https://www.dio.me/certificate/E11BE5A3/share" target="_blank"> Variáveis e Tipos<br>com JavaScript </a></td>
     <td><a href="https://www.dio.me/certificate/7BFE5DF0/share" target="_blank"> Dominando Funções<br>em JavaScript </a></td>
-    <td><a href="" target="_blank"> </a></td>
+    <td><a href="https://www.dio.me/certificate/F5DDA7AB/share" target="_blank"> Debugging e Error<br>Handling com JavaScript </a></td>
   </tr>
   
   <!---TABELA EM BRANCO
